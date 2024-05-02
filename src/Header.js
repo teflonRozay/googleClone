@@ -13,7 +13,7 @@ function Header() {
                     <a href="google.com/images">Images</a>
                 </li>
                 <li>
-                    <a href="google.com/icon"><img src={menuIcon} alt="Icon" /></a>
+                    <a href="google.com/icon"><img src={menuIcon} alt="menu" /></a>
                 </li>
                 <li>
                     <button>Sign In</button>
