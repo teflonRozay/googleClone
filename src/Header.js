@@ -6,13 +6,13 @@ function Header() {
         <header>
             <ul>
                 <li>
-                    <a href="">Gmail</a>
+                    <a href="google.com/gmail">Gmail</a>
                 </li>
                 <li>
-                    <a href="">Images</a>
+                    <a href="google.com/images">Images</a>
                 </li>
                 <li>
-                    <a href=""><img src="./images/menuIcon.png" alt="" /></a>
+                    <a href="google.com/icon"><img src="./images/menuIcon.png" alt="images" /></a>
                 </li>
                 <li>
                     <button>Sign In</button>
