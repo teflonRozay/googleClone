@@ -9,15 +9,15 @@ function Footer() {
             </div>
             <div className="row row2">
                 <ul>
-                    <li><a href="">About</a></li>
-                    <li><a href="">Advertising</a></li>
-                    <li><a href="">Business</a></li>
-                    <li><a href="">How Search works</a></li>
+                    <li><a href="google.com/About">About</a></li>
+                    <li><a href="google.com/Advertising">Advertising</a></li>
+                    <li><a href="google.com/Business">Business</a></li>
+                    <li><a href="google.com/How Search works">How Search works</a></li>
                 </ul>
                 <ul>
-                    <li><a href="">Privacy</a></li>
-                    <li><a href="">Terms</a></li>
-                    <li><a href="">Settings</a></li>
+                    <li><a href="google.com/Privacy">Privacy</a></li>
+                    <li><a href="google.com/Terms">Terms</a></li>
+                    <li><a href="google.com/Settings">Settings</a></li>
                 </ul>
             </div>
         </div>

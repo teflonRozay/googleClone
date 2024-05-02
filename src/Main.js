@@ -57,16 +57,16 @@ function Main() {
             <ul className="languages">
                 <li>Google offered in:</li>
                 <li>
-                    <a href="#">Hausa</a>
+                    <a href="google.com/Hausa">Hausa</a>
                 </li>
                 <li>
-                    <a href="#">Igbo</a>
+                    <a href="google.com/Igbo">Igbo</a>
                 </li>
                 <li>
-                    <a href="#"> Èdè Yorùbá</a>
+                    <a href="google.com/Èdè Yorùbá"> Èdè Yorùbá</a>
                 </li>
                 <li>
-                    <a href="#">Nigerian Pidgin English</a>
+                    <a href="google.com/Nigerian Pidgin English">Nigerian Pidgin English</a>
                 </li>
                 
             </ul>
