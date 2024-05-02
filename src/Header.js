@@ -1,6 +1,6 @@
 // Header.js
 import React from 'react';
-import menuIcon from './src/images/menuIcon.png'
+import menuIcon from './menuIcon.png'
 
 function Header() {
     return (
@@ -13,7 +13,7 @@ function Header() {
                     <a href="google.com/images">Images</a>
                 </li>
                 <li>
-                    <a href="google.com/icon"><img src={menuIcon} alt="images" /></a>
+                    <a href="google.com/icon"><img src={menuIcon} alt="Icon" /></a>
                 </li>
                 <li>
                     <button>Sign In</button>
